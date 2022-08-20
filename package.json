@@ -1,0 +1,23 @@
+{
+  "name": "tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vulman-dev/tree-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vulman-dev/tree-js/issues"
+  },
+  "homepage": "https://github.com/vulman-dev/tree-js#readme",
+  "dependencies": {
+    "@hexlet/immutable-fs-trees": "^0.7.1",
+    "lodash": "^4.17.21"
+  }
+}
